@@ -9,3 +9,5 @@ Function: di go lang nama function harus unik dan tidak boleh duplikat dalam sat
 Variable: di go variable tidak bisa di overide dengan type yang berbeda. variable harus digunakan ketika di diklarasikan.
 Constant Variable: variable yang tidak bisa di ganti nilainya.
 Type Decalation: membuat alias untuk type data tertentu
+Type Data Array: di go panjang array itu fix tidak bisa dikurangi atau ditambah
+Type Slice: potongan dari data array, slice mirip array tapi panjang data nya bisa berubah (dynamic)
